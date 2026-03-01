@@ -1,3 +1,3 @@
 Lihtne Dashboard mis kasutab localstrage't.
 
-![alt text](https://github.com/downo/KoomiksiteAndmebaas/blob/main/Screen1.png "KoAn")
+![alt text](https://github.com/downo/Dashboard/blob/main/Screen001.png "KoAn")
